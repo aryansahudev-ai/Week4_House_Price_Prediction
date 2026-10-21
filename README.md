@@ -88,7 +88,7 @@ The Streamlit application allows users to enter:
 
 After the user selects **Predict House Price**, the application scales the inputs, arranges them in the expected feature order, and displays the model's estimated house price.
 
-**Live Demo:** Add your deployed Streamlit application URL here.
+**Live Demo:** https://aryansahu-house-price-prediction.streamlit.app/
 
 ## Run the Project Locally
 1. Clone or download this project repository.
